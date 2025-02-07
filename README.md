@@ -37,7 +37,7 @@ From File .env.template
 
 Before starting the application, run the database migrations to create the necessary tables:
 
-npm run typeorm migration:run
+npm run  migrate
 
 ▶ Running the API
 
