@@ -2,7 +2,8 @@ Taxi Booking API
 
 📌 Introduction
 
-This is a Node.js API built with NestJS and TypeORM for a taxi reservation platform at an airport. This system includes webhook reception from parking lanes, allowing real-time updates on taxi arrivals and departures.
+This is a Node.js API system for airport taxi bookings, supporting instant and advance bookings, real-time queue management, and notifications.
+Ex . API Webhook
 
 🚀 Installation
 
