@@ -17,7 +17,7 @@ npm (comes with Node.js)
 
 2️⃣ Clone the Repository
 
-git clone https://github.com/your-repo/taxi-booking-api.git
+git [clone https://github.com/natthaphonKhaokkaeo/taxi-booking-api.git] ([https://github.com/natthaphonKhaokkaeo/taxi-booking-api.git](https://github.com/natthaphonKhaokkaeo/taxi-booking-api.git))
 cd taxi-booking-api
 
 3️⃣ Install Dependencies
